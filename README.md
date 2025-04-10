@@ -37,21 +37,21 @@ Ben Rabia Güllü.2022 yılında Burdur Mehmet Akif Ersoy Üniversitesi, Bilişi
 
 Aşağıda, yazılım geliştirme süreçlerimde kullandığım bazı popüler uygulamalar bulunmaktadır:
 
-1. **Flowgorithm**  
-     
-   ![Flowgorithm](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Flowgorithm_logo.svg/1200px-Flowgorithm_logo.svg.png)
+1. **Flowgorithm**
+2. 
+     ![Flowgorithm](https://upload.wikimedia.org/wikipedia/commons/e/e7/Flowgorithm_logo.svg)
 
-2. **VS Code**  
+3. **VS Code**  
      
    ![VS Code](https://code.visualstudio.com/favicon.ico)
 
-3. **Visual Studio**   
+4. **Visual Studio**   
    ![Visual Studio](https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Visual_Studio_2019_logo.svg/600px-Visual_Studio_2019_logo.svg.png)
 
-4. **Android Studio**  
+5. **Android Studio**  
    ![Android Studio](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Android_Studio_logo_2014.svg/1024px-Android_Studio_logo_2014.svg.png)
 
-5. **Apache NetBeans**  
+6. **Apache NetBeans**  
      
    ![Apache NetBeans](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Apache_NetBeans_Logo_2018.svg/600px-Apache_NetBeans_Logo_2018.svg.png)
 
