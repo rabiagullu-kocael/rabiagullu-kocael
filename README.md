@@ -30,3 +30,25 @@ Ben Rabia Güllü.2022 yılında Burdur Mehmet Akif Ersoy Üniversitesi, Bilişi
 ![JSON Badge](https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff&style=for-the-badge)
 
 
+  <h3>Kullandığım Uygulamalar</h3>
+
+
+Aşağıda, yazılım geliştirme süreçlerimde kullandığım bazı popüler uygulamalar bulunmaktadır:
+
+1. **Flowgorithm**  
+   - Akış diyagramları oluşturmak için kullanılan görsel bir programlama aracıdır. Algoritma tasarımı ve mantık oluşturma konusunda oldukça faydalıdır.
+
+2. **VS Code**  
+   - Hafif, esnek ve güçlü bir kod düzenleyicisidir. Çeşitli eklentilerle pek çok programlama dilinde çalışma imkanı sunar. Özellikle web geliştirme için tercih edilmektedir.
+
+3. **Visual Studio**  
+   - Microsoft tarafından geliştirilen ve C#, .NET, C++ gibi dillerde yazılım geliştirmeye olanak tanıyan, zengin özelliklere sahip bir IDE'dir. Büyük projelerde güçlü entegrasyonlar sağlar.
+
+4. **Android Studio**  
+   - Android uygulamaları geliştirmek için kullanılan resmi IDE'dir. Java ve Kotlin ile mobil uygulama geliştirme süreçlerini kolaylaştırır.
+
+5. **Apache NetBeans**  
+   - Açık kaynaklı bir IDE olup, Java ve diğer dillerle yazılım geliştirmeye olanak tanır. Java tabanlı uygulamalar için yaygın olarak kullanılır ve zengin özellikler sunar.
+
+
+
