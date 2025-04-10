@@ -2,7 +2,9 @@
 
 <h2>Hakkımda</h2>
 
-   Bilişim Sistemleri Mühendisliği 3. sınıf öğrencisiyim. Mobil programlama ve yapay zeka alanlarında kendimi sürekli geliştiriyor, yeni teknolojilere hızla uyum sağlayarak günümüz problemlerine yenilikçi çözümler üretmeyi hedefliyorum.
+   Merhaba! 
+Ben Rabia Güllü.2022 yılında Burdur Mehmet Akif Ersoy Üniversitesi, Bilişim Sistemleri Mühendisliği bölümünü kazandım. 3. sınıf öğrencisiyim, okulumda öğrendiğim bilgileri pekiştirmek, kendimi geliştirmek istiyorum. Projeler geliştirmek, var olan projelere destek verip katkıda bulunmayı hedefliyorum. 
+Şu ana kadar Flowgorithm ile algoritmalarda akış şeması oluşturma ,Java ve Python da projeler. Web Tasarım temel seviye projeleri,SQL ile veritabanı sistemleri, Flutter ve Dart ile mobil uygulama geliştirme ve Python ile derin öğrenme ile CNN modelini kullanarak proje geliştirdim.Kendimi daha da geliştirmek ve olumlu yönde değiştirmeye her zaman açığım.
     
 <h2>İletişim</h2>
                                       
