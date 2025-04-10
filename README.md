@@ -33,22 +33,28 @@ Ben Rabia Güllü.2022 yılında Burdur Mehmet Akif Ersoy Üniversitesi, Bilişi
   <h3>Kullandığım Uygulamalar</h3>
 
 
+# Kullandığım Uygulamalar
+
 Aşağıda, yazılım geliştirme süreçlerimde kullandığım bazı popüler uygulamalar bulunmaktadır:
 
 1. **Flowgorithm**  
-   - Akış diyagramları oluşturmak için kullanılan görsel bir programlama aracıdır. Algoritma tasarımı ve mantık oluşturma konusunda oldukça faydalıdır.
+     
+   ![Flowgorithm](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Flowgorithm_logo.svg/1200px-Flowgorithm_logo.svg.png)
 
 2. **VS Code**  
-   - Hafif, esnek ve güçlü bir kod düzenleyicisidir. Çeşitli eklentilerle pek çok programlama dilinde çalışma imkanı sunar. Özellikle web geliştirme için tercih edilmektedir.
+     
+   ![VS Code](https://code.visualstudio.com/favicon.ico)
 
-3. **Visual Studio**  
-   - Microsoft tarafından geliştirilen ve C#, .NET, C++ gibi dillerde yazılım geliştirmeye olanak tanıyan, zengin özelliklere sahip bir IDE'dir. Büyük projelerde güçlü entegrasyonlar sağlar.
+3. **Visual Studio**   
+   ![Visual Studio](https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Visual_Studio_2019_logo.svg/600px-Visual_Studio_2019_logo.svg.png)
 
 4. **Android Studio**  
-   - Android uygulamaları geliştirmek için kullanılan resmi IDE'dir. Java ve Kotlin ile mobil uygulama geliştirme süreçlerini kolaylaştırır.
+   ![Android Studio](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Android_Studio_logo_2014.svg/1024px-Android_Studio_logo_2014.svg.png)
 
 5. **Apache NetBeans**  
-   - Açık kaynaklı bir IDE olup, Java ve diğer dillerle yazılım geliştirmeye olanak tanır. Java tabanlı uygulamalar için yaygın olarak kullanılır ve zengin özellikler sunar.
+     
+   ![Apache NetBeans](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Apache_NetBeans_Logo_2018.svg/600px-Apache_NetBeans_Logo_2018.svg.png)
+
 
 
 
